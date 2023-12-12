@@ -1,3 +1,4 @@
+![logo](https://github.com/Tanveer60/Tanveer60/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Tanveer Nawaz</h1>
 <h3 align="center">A passionate Student and Researcher from Pakistan</h3>
 
