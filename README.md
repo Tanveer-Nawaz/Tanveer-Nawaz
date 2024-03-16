@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data, Python, Web Scraping**
 
-- 📫 How to reach me **nawaztanveer59@gmail.com**
+- 📫 How to reach me **nawaztanveer5@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
