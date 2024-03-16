@@ -13,7 +13,6 @@
 - 💬 Ask me about **Data, Python, Web Scraping**
 
 - 📫 How to reach me **nawaztanveer59@gmail.com**
-- My Academic Portfolio **nawaztanveer5.wordpress.com**
 
 - ⚡ Fun fact **I am Funny**
 
