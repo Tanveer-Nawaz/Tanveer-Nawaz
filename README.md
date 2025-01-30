@@ -42,7 +42,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveer60&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0D1117" alt="tanveer60" /></p>
 
-<p align="right">
-  <img src="https://streak-stats.demolab.com?user=tanveer60&theme=dark" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveer60&" alt="tanveer60" /></p>
 
