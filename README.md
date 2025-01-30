@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveer60&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0D1117" alt="tanveer60" /></p>
 
-<p align="right">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=tanveer60&theme=dark" alt="GitHub Streak" />
 </p>
 <p>Consistency is key! 🚀</p>
