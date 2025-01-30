@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanveer60&label=Profile%20views&color=0e75b6&style=flat" alt="tanveer60" /> </p>
 
-- 🌱 Currently Learning: Deepening my knowledge in **Artificial Intelligence, Large Language Models (LLMs)**, and **Natural Language Processing (NLP)** techniques, with a focus on Topic Modeling and Data Science applications.
+- 🌱 **Currently Learning:** Deepening my knowledge in **Artificial Intelligence, Large Language Models (LLMs)**, and **Natural Language Processing (NLP)** techniques, with a focus on Topic Modeling and Data Science applications.
 
-- 👯 Looking to Collaborate: Interested in collaborative projects involving **AI, Machine Learning, Big Data,** and **NLP**, particularly in healthcare, life sciences, and interdisciplinary research.
+- 👯 **Looking to Collaborate:** Interested in collaborative projects involving **AI, Machine Learning, Big Data,** and **NLP**, particularly in healthcare, life sciences, and interdisciplinary research.
 
-- 💬 Ask Me About: Data analysis, Python programming, Web Scraping, and Machine Learning applications.
+- 💬 **Ask Me About:** Data analysis, Python programming, Web Scraping, and Machine Learning applications.
   
-- 📫 How to reach me **nawaztanveer59@gmail.com**
+- 📫 **How to reach me** **nawaztanveer59@gmail.com**
 
-- ⚡ Fun Fact: **I believe humor is a great way to foster creativity and collaboration!**
+- ⚡ **Fun Fact:I believe humor is a great way to foster creativity and collaboration!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
