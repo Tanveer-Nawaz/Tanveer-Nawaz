@@ -1,4 +1,4 @@
-![logo](https://github.com/Tanveer60/Tanveer60/blob/main/Banner.png)
+![logo](https://github.com/Tanveer-Nawaz/Tanveer-Nawaz/blob/main/Banner.png)
 <h1 align="center">Tanveer Nawaz (MS Computer Science, Bioinformatics & NLP)</h1>
 <h3 align="center"> NLP, ML Researcher | LLMs for Healthcare | Specializing in NLP | Ex-MS @UAF </h3>
 
