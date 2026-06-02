@@ -42,4 +42,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanveer-Nawaz&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0D1117" alt="TANVEER NAWAZ" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanveer-Nawaz&" alt="TANVEER NAWAZ" /></p>
+
